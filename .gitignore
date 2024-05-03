@@ -1,0 +1,29 @@
+# ASP.NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+
+# React
+node_modules/
+build/
+dist/
+
+# Visual Studio Code
+.vscode/
+
+# IDE-specific files
+*.sln
+*.csproj
+*.csproj.user
+*.suo
+*.userprefs
+*.log
+*.vspscc
+*.vssscc
+*.npmrc
+*.yarnrc
+*.swp
+.vs
